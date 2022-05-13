@@ -1,0 +1,11 @@
+This pack includes:
+-Purple and cyan glazed terracotta Vjara-inspired textures.
+-Chiselled quartz block Vjara-inspired texture.
+-Regular and red sandstone Ehwaism-inspired textures.
+-Three Korolian paintings.
+-"Crown of Nebsk" texture. Only item retextured for now :(.
+-Totem of undying retextured to a bear.
+-Six different sabre textures (e.g. "Iron Sabre").
+-KCorp logo instead of Mojang logo (needs to be fixed).
+-Java Edition retextured to Korolian Edition (needs to be improved).
+-Korolian-themed custom splashes.
